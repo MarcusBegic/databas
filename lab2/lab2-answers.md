@@ -18,6 +18,8 @@ All natural keys for the movie will remain stagnant, same goes for the screening
 #### c) Are there any weak entity sets?
 The weak entity set we have is the movie being displayed for each screening. Since we only have the movie_title we cannot deduce which exact movie it is. We have uniqueness on title for each calendar year but there are many years. 
 
+Ticket and Screening
+
 #### d) In which relations do you want to use an invented key. Why?
 We want to use a foreign key in screening, the movie_id attribute, as defined in the movie table. This is due to the uniqueness problem we bump into with non-unique movie titles. 
 
