@@ -1,0 +1,53 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;130&lt;/y&gt;&lt;w&gt;280&lt;/w&gt;&lt;h&gt;40&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=-
+m1=1
+m2=*&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;10;260;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;130&lt;/y&gt;&lt;w&gt;280&lt;/w&gt;&lt;h&gt;40&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=-
+m1=1
+m2=*&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;10;260;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;130&lt;/y&gt;&lt;w&gt;280&lt;/w&gt;&lt;h&gt;40&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=-
+m1=1
+m2=*&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;10;260;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;130&lt;/y&gt;&lt;w&gt;280&lt;/w&gt;&lt;h&gt;40&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=-
+m1=1
+m2=*&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;10;260;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;240&lt;/x&gt;&lt;y&gt;190&lt;/y&gt;&lt;w&gt;190&lt;/w&gt;&lt;h&gt;50&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=-
+m1=0..n
+m2=0..1
+teaches to &amp;gt;&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;20;170;20&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;Space for diagram notes&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;190&lt;/y&gt;&lt;w&gt;120&lt;/w&gt;&lt;h&gt;90&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;Theater
+--
+&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;190&lt;/y&gt;&lt;w&gt;120&lt;/w&gt;&lt;h&gt;90&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;Theater
+--
+&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;190&lt;/y&gt;&lt;w&gt;120&lt;/w&gt;&lt;h&gt;90&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;Theater
+--
+&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;190&lt;/y&gt;&lt;w&gt;120&lt;/w&gt;&lt;h&gt;90&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;Theater
+--
+&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;320&lt;/x&gt;&lt;y&gt;130&lt;/y&gt;&lt;w&gt;280&lt;/w&gt;&lt;h&gt;40&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=-
+m1=1
+m2=*&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;10;260;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;</help_text><element><id>UMLClass</id><coordinates><x>480</x><y>100</y><w>120</w><h>90</h></coordinates><panel_attributes>Theater
+--
+_t_name_
+capacity</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>110</x><y>90</y><w>120</w><h>90</h></coordinates><panel_attributes>Chain
+--
+c_name</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>440</y><w>120</w><h>100</h></coordinates><panel_attributes>Movie
+--
+_m_title_
+_production_year_
+duration
+imdb_key</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>100</x><y>270</y><w>120</w><h>90</h></coordinates><panel_attributes>Customer
+--
+_username_
+full_name
+pwd</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>290</x><y>270</y><w>120</w><h>90</h></coordinates><panel_attributes>Ticket
+--
+_ticket_id_</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>270</y><w>120</w><h>90</h></coordinates><panel_attributes>Screening
+--
+start_time
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>220</x><y>140</y><w>280</w><h>40</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*</panel_attributes><additional_attributes>10;10;260;10</additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>180</y><w>40</w><h>110</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1</panel_attributes><additional_attributes>10;90;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>350</y><w>40</w><h>110</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*</panel_attributes><additional_attributes>10;90;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>310</y><w>100</w><h>40</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*</panel_attributes><additional_attributes>80;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>310</y><w>100</w><h>40</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*</panel_attributes><additional_attributes>10;10;80;10</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>170</y><w>40</w><h>120</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*</panel_attributes><additional_attributes>10;10;10;100</additional_attributes></element></diagram>
