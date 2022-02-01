@@ -37,7 +37,10 @@ pwd</panel_attributes><additional_attributes></additional_attributes></element><
 --
 _ticket_id_</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>270</y><w>120</w><h>90</h></coordinates><panel_attributes>Screening
 --
+screening_id
 start_time
+start_date
+free_seats
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>220</x><y>140</y><w>280</w><h>40</h></coordinates><panel_attributes>lt=-
 m1=1
 m2=*</panel_attributes><additional_attributes>10;10;260;10</additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>180</y><w>40</w><h>110</h></coordinates><panel_attributes>lt=-
