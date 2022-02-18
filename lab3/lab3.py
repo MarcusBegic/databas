@@ -282,6 +282,29 @@ def post_tickets():
 
 
 
+    
+@get('/users/<username>/tickets')
+def get_username_tickets(username):
+    c = db.cursor()
+    c.execute(
+        """
+        SELECT   start_date, start_time, t_name, m_title, production_year, count(ticket_id) AS tickets_bought
+        FROM     screenings
+        JOIN     movies
+        USING    (imdb_key)
+        LEFT     OUTER JOIN tickets
+        USING    (screening_id)
+        WHERE    username = ?
+        GROUP BY screening_id
+        """,
+        [username]
+    )
+    found = [{"date": start_date, "startTime": start_time, "theater": t_name, "title": m_title, "year": production_year, "nbrOfTickets": tickets_bought}
+             for start_date, start_time, t_name, m_title, production_year, tickets_bought in c]
+    response.status = 200
+    return {"data": found}
+    
+
 
 
 run(host='localhost', port=7007)
